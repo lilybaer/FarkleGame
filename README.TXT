@@ -6,10 +6,10 @@ Interactive Dice Rolls:
 Players can roll six dice and select specific dice for scoring.
 Dice that are scored are visually distinguished from unscored ones.
 
-## Customizable Graphics:
+Customizable Graphics:
 The dice are represented with interactive graphics, with dynamic color changes for selected and scored states.
 
-## Scoring Logic:
+Scoring Logic:
 
 Points are awarded based on various combinations, such as:
 Straight (1, 2, 3, 4, 5, 6): 3000 points
@@ -20,13 +20,13 @@ Tracks scored and unscored dice for accurate gameplay.
 Winning Conditions:
 A player wins when they reach or exceed 10,000 points.
 
-## Animations:
+Animations:
 Dice rolling animations simulate the randomness of physical dice rolls.
 
-## Interactive Gameplay:
+Interactive Gameplay:
 Players can click on dice to select/unselect them for scoring, and the game enforces valid selections.
 
-## File Overview:
+File Overview:
 1. Farkle.java
 Implements the main game logic, including scoring, dice selection, and turn management.
 Key scoring combinations and their point values are predefined.
